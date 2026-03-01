@@ -13,7 +13,11 @@ This setup focuses on:
 
 Turn your Linux desktop into a beautiful, fast and productive tiling environment.
 
-[▶ Watch Demo Video](redpandacompress_2026-03-01_23-10-15.mp4)
+
+
+https://github.com/user-attachments/assets/cc989496-f078-4d31-86e1-822fc4d4fcef
+
+
 
 creator: https://github.com/Harman1307/dotfiles-Hyprland
 
