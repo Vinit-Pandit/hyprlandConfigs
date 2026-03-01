@@ -19,6 +19,10 @@ https://github.com/user-attachments/assets/cc989496-f078-4d31-86e1-822fc4d4fcef
 
 
 
+
+
+
+
 creator: https://github.com/Harman1307/dotfiles-Hyprland
 
 
